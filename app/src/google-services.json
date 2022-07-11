@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1018868280775",
+    "firebase_url": "https://easychat-cfe2c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "easychat-cfe2c",
+    "storage_bucket": "easychat-cfe2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018868280775:android:5e3f5202c87c1bf0a0fde2",
+        "android_client_info": {
+          "package_name": "com.oreo.easychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018868280775-781vnfsduvsv3o9j1u4016oe77443b66.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oreo.easychat",
+            "certificate_hash": "4c0e41390317eed097c2e9d1f324fc549d80293d"
+          }
+        },
+        {
+          "client_id": "1018868280775-9hbcg88ibil95gg63hq6cha0nmnq89al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0quNshNafxL01k75Nkc10jV-LmrnF1Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018868280775-9hbcg88ibil95gg63hq6cha0nmnq89al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
