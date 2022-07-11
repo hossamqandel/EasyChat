@@ -23,11 +23,11 @@ object AppModule {
         return GetConnectionStatusUseCase(iNetworkConnectionStatusRepository)
     }
 
-    @Provides
-    @Singleton
-    fun provideNetworkConnectionStatusRepository(iNetworkDao: INetworkDao): INetworkConnectionStatusRepository {
-        return NetworkConnectionStatusRepositoryImpl(iNetworkDao)
-    }
+//    @Provides
+//    @Singleton
+//    fun provideNetworkConnectionStatusRepository(iNetworkDao: INetworkDao): INetworkConnectionStatusRepository {
+//        return NetworkConnectionStatusRepositoryImpl(iNetworkDao)
+//    }
 
 
     @Provides

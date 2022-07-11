@@ -16,4 +16,6 @@ interface IAppModule {
     @Binds
     fun bindNetworkDao(iNetworkDaoImpl: INetworkDaoImpl): INetworkDao
 
+    @Binds
+    fun bindNetworkConnectionStatusRepo(networkConnectionStatusRepoImpl: NetworkConnectionStatusRepositoryImpl): INetworkConnectionStatusRepository
 }
